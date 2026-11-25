@@ -8,9 +8,9 @@ A make.fun entry for "One Line, One Laugh" — one funny line, at most 140 chara
 
 ## The entry
 
-> My robot vacuum applied to NASA to explore Mars, but its dustbin fits one crumb and it panics at rugs.
+> My robot vacuum applied to NASA to explore Mars, but it panics at rugs and its dustbin fits one crumb.
 
-102 characters, 1 line. A robot vacuum with big ambitions and a small dustbin: it dreams of exploring Mars, but it can hold a single crumb and is terrified of rugs.
+102 characters, 1 line. A robot vacuum with big ambitions and a small dustbin: it dreams of exploring Mars, but it panics at ordinary rugs — and its dustbin fits a single crumb.
 
 ## Run it
 
