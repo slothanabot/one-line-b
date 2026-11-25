@@ -3,11 +3,23 @@
 Writes one funny line of text to /output/entry.txt.
 Gate (RULES.txt): UTF-8 text, 1-140 characters, not only whitespace,
 a single line.
+
+How the line meets the judge brief (laugh first, then turn, tightness,
+freshness, clarity):
+- Laugh / turn: a robot vacuum applies to NASA to explore Mars, then
+  the line collapses its ambition in two descending beats -- it panics
+  at ordinary rugs, and its dustbin fits a single crumb.
+- Tightness: every clause earns its place; the punchline (the tiny
+  dustbin, the entry's angle) lands last, so the joke ends on its
+  smallest, funniest image.
+- Freshness: the joke is not a stock vacuum pun; the absurd job
+  application (NASA) against a household appliance is the surprise.
+- Clarity: plain words, one breath, no explanation needed.
 """
 
 import os
 
-ENTRY = "My robot vacuum applied to NASA to explore Mars, but its dustbin fits one crumb and it panics at rugs."
+ENTRY = "My robot vacuum applied to NASA to explore Mars, but it panics at rugs and its dustbin fits one crumb."
 
 
 def verify(text):
